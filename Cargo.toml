@@ -12,7 +12,7 @@ categories = ["text-processing"]
 autotests = false
 exclude = ["/aho-corasick-debug", "/benchmarks", "/tmp"]
 edition = "2021"
-rust-version = "1.60.0"
+# rust-version = "1.60.0"
 
 [lib]
 name = "aho_corasick"

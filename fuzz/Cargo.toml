@@ -6,7 +6,7 @@ authors = ["Automatically generated"]
 edition = "2021"
 
 # Prevent this from interfering with workspaces
-[workspace]
+#[workspace]
 members = ["."]
 
 [dependencies]
